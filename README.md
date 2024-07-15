@@ -1,20 +1,15 @@
 # meals
 
+## Home Page
 ![Home Page](asstes/home_page.jpg)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+## Side Bar
 ![Home Page](asstes/side_bar.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+## Filters Page
+![Home Page](asstes/filters.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Favourites Page
+![Home Page](asstes/favourites_page.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
