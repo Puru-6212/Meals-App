@@ -1,6 +1,6 @@
 # meals
 
-![Home Page](assets/home_page.jpg)
+![Home Page](asstes/home_page.jpg)
 
 A new Flutter project.
 
