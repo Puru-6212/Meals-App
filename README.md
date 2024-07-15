@@ -1,7 +1,7 @@
 # meals
 
 ## Home Page
-![Home Page](asstes/home_page.jpg)
+<img src="asstes/home_page.jpg" alt="Home Page" width="300" />
 
 ## Side Bar
 ![Home Page](asstes/side_bar.jpg)
