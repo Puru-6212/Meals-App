@@ -4,12 +4,12 @@
 <img src="asstes/home_page.jpg" alt="Home Page" width="300" />
 
 ## Side Bar
-![Home Page](asstes/side_bar.jpg)
+<img src="asstes/side_bar.jpg" alt="Home Page" width="300" />
 
 ## Filters Page
-![Home Page](asstes/filters.jpg)
+<img src="asstes/filters.jpg" alt="Home Page" width="300" />
 
 ## Favourites Page
-![Home Page](asstes/favourites_page.jpg)
+<img src="asstes/favourites_page.jpg" alt="Home Page" width="300" />
 
 
